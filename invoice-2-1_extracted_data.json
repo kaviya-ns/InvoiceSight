@@ -1,0 +1,138 @@
+{
+  "General_Information": {
+    "invoice_number": "0012820",
+    "invoice_date": "27.08.2019",
+    "supplier_gst_number": "3300Z5",
+    "bill_to_gst_number": "CN0044",
+    "po_number": "DUE",
+    "shipping_address": "Caitlin Roberts BILL TO: Caitlin Roberts, 305 Fleet Rd Awthentikz Awthentikz, Fleet, Hampshire County, 89 Annfield Rd 89 Annfield Rd, GU51 3BU , CV37 7GQ , CV37 7GQ, 012 5261 2116 079 0608 3650 079 0608 3650, admin@conincorp.co.uk Customer :, Supplier :",
+    "seal_and_sign_present": true,
+    "seal_image_path": "output/seal_invoice-2-1.pdf_0.png"
+  },
+  "Table_Contents": [
+    {
+      "serial_number": "1",
+      "description": "10-700 - Exterior Protection (10)",
+      "hsn_sac": null,
+      "quantity": 10.0,
+      "unit_price": 40.29,
+      "total_amount": 402.9
+    },
+    {
+      "serial_number": "2",
+      "description": "1-515 - Temporary Lighting (29)",
+      "hsn_sac": null,
+      "quantity": 29.0,
+      "unit_price": 93.55,
+      "total_amount": 2712.95
+    },
+    {
+      "serial_number": "3",
+      "description": "11-060 - Theater and Stage Equipment (17)",
+      "hsn_sac": null,
+      "quantity": 17.0,
+      "unit_price": 78.83,
+      "total_amount": 1340.11
+    },
+    {
+      "serial_number": "4",
+      "description": "1-600 - Product Requirements (Scope of Work) (20)",
+      "hsn_sac": null,
+      "quantity": 20.0,
+      "unit_price": 13.72,
+      "total_amount": 274.4
+    },
+    {
+      "serial_number": "5",
+      "description": "12-050 - Fabrics (23)",
+      "hsn_sac": null,
+      "quantity": 23.0,
+      "unit_price": 94.48,
+      "total_amount": 2173.04
+    },
+    {
+      "serial_number": "6",
+      "description": "2-823 - PVC Fences and Gates (27)",
+      "hsn_sac": null,
+      "quantity": 27.0,
+      "unit_price": 23.76,
+      "total_amount": 641.52
+    },
+    {
+      "serial_number": "7",
+      "description": "6-400 - Architectural Woodwork (26)",
+      "hsn_sac": null,
+      "quantity": 26.0,
+      "unit_price": 8.86,
+      "total_amount": 230.36
+    },
+    {
+      "serial_number": "8",
+      "description": "2-820 - Fences and Gates (15)",
+      "hsn_sac": null,
+      "quantity": 15.0,
+      "unit_price": 99.91,
+      "total_amount": 1498.65
+    },
+    {
+      "serial_number": "9",
+      "description": "9-700 - Wall Finishes (1)",
+      "hsn_sac": null,
+      "quantity": 1.0,
+      "unit_price": 27.31,
+      "total_amount": 27.31
+    },
+    {
+      "serial_number": "10",
+      "description": "2-795 - Porous Paving (30)",
+      "hsn_sac": null,
+      "quantity": 30.0,
+      "unit_price": 36.44,
+      "total_amount": 1093.2
+    },
+    {
+      "serial_number": "11",
+      "description": "11 - Equipment (9)",
+      "hsn_sac": null,
+      "quantity": 9.0,
+      "unit_price": 50.34,
+      "total_amount": 453.06
+    },
+    {
+      "serial_number": "12",
+      "description": "5-050 - Basic Metal Materials and Methods (16)",
+      "hsn_sac": null,
+      "quantity": 16.0,
+      "unit_price": 94.24,
+      "total_amount": 1507.84
+    },
+    {
+      "serial_number": "13",
+      "description": "15-600 - Refrigeration Equipment (29)",
+      "hsn_sac": null,
+      "quantity": 29.0,
+      "unit_price": 96.99,
+      "total_amount": 2812.71
+    },
+    {
+      "serial_number": "14",
+      "description": "10-800 - Toilet, Bath, and Laundry Specialties (23)",
+      "hsn_sac": null,
+      "quantity": 23.0,
+      "unit_price": 2.75,
+      "total_amount": 63.25
+    },
+    {
+      "serial_number": "15",
+      "description": "13-200 - Storage Tanks (25)",
+      "hsn_sac": null,
+      "quantity": 25.0,
+      "unit_price": 99.25,
+      "total_amount": 2481.25
+    }
+  ],
+  "no_items": 0,
+  "subtotal": 0,
+  "tax": 0,
+  "total_amount": 0
+}
