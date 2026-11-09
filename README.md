@@ -48,4 +48,4 @@ Upload one or more PDFs from the sidebar. Results are written to `output/`.
 
 ---
 
-*Built for the May 2025 hackathon — see `Problem_Statement_1_May_2025_Hackathon.pdf`.*
+*Built for the Yavar.ai hackathon (May 2025) — see `Problem_Statement_1_May_2025_Hackathon.pdf`.*
